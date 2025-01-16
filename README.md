@@ -46,7 +46,7 @@ Languages:
 Python, C++, JavaScript, SQL
 
 Web Development:
-![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white) 
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 
 HTML, CSS, React, Flask, Django
 
