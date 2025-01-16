@@ -40,8 +40,10 @@ Collaborated on scalable systems, implementing search engine algorithms for larg
 🛠️ Skills
 
 Languages:
-![python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![cplusplus](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=C++&logoColor=white)
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
 
