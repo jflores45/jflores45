@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 About Me
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+#🚀 About Me
 
 🎓 I am Jahaira Flores, a Computer Science graduate from the University of Michigan with a Minor in UX Design. I am passionate about full-stack development and continuously expanding my skills in web and mobile app development. My technical expertise includes Python, C++, JavaScript, React, SQL, HTML/CSS, REST APIs, Flask, Django, and Docker.
 
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 ✈️ I love traveling and discovering new places to fuel my creativity and broaden my perspective.
 
-🏅 Achievements
+#🏅 Achievements
 
 Completed a Microsoft Externship, gaining insight into corporate operations and software development processes.
 
@@ -38,7 +37,7 @@ Built interactive UI components for real-time applications, including image uplo
 
 Collaborated on scalable systems, implementing search engine algorithms for large data processing.
 
-🛠️ Skills
+#🛠️ Skills
 
 Languages:Python, C++, JavaScript, SQL
 
