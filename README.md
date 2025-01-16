@@ -46,11 +46,17 @@ Languages:
 Python, C++, JavaScript, SQL
 
 Web Development:
-![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white) ![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white) ![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB) ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 
 HTML, CSS, React, Flask, Django
 
-Tools & Technologies:Git, REST APIs, Docker, Figma
+Design Tools & Technologies:
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white) 
+Git, REST APIs, Docker, Figma
 
 Testing: Pytest
 
