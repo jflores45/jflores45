@@ -40,16 +40,13 @@ Collaborated on scalable systems, implementing search engine algorithms for larg
 🛠️ Skills
 
 Languages:
+
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![cplusplus](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
-![javascript](https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-
 
 Python, C++, JavaScript, SQL
 
 Web Development:
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white) 
 
 HTML, CSS, React, Flask, Django
 
