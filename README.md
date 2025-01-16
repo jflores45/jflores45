@@ -52,6 +52,8 @@ Languages:
 Python, C++, JavaScript, SQL
 
 Web Development:
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 HTML, CSS, React, Flask, Django
 
