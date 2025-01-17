@@ -52,6 +52,12 @@ Design Tools & Technologies:
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white) 
 
 CMS: 
+
 ![wix](https://img.shields.io/badge/wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white) ![wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 
-Let's connect and build something impactful together!
+Let's connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahaira@umich.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flores-jahaira/)
+
+
