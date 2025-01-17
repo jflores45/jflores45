@@ -41,7 +41,7 @@ Collaborated on scalable systems, implementing search engine algorithms for larg
 
 Languages:
 
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![cplusplus](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![cplusplus](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 Python, C++, JavaScript, SQL
 
@@ -52,10 +52,12 @@ Web Development:
 HTML, CSS, React, Flask, Django
 
 Design Tools & Technologies:
+
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white) 
+
 Git, REST APIs, Docker, Figma
 
 Testing: Pytest
