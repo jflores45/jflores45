@@ -59,6 +59,6 @@ Let's connect!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahaira@umich.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flores-jahaira/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://jflores45.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E6526F?style=for-the-badge&logo=GitHub&logoColor=white)](https://jflores45.github.io/Portfolio/)
 
 
