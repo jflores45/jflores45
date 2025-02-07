@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ✈️ I love traveling and discovering new places to fuel my creativity and broaden my perspective.
 
-🛠️ Skills
+## 🛠️ Skills
 
 Languages: 
 
