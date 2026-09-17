@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **jflores45/jflores45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 About Me
+## About Me
 
 🎓 I am Jahaira Flores, a Computer Science graduate from the University of Michigan with a Minor in UX Design. I am passionate about full-stack development and continuously expanding my skills in web and mobile app development. My technical expertise includes Python, C++, JavaScript, React, SQL, HTML/CSS, REST APIs, Flask, Django, and Docker.
 
@@ -29,7 +26,7 @@ Here are some ideas to get you started:
 
 ✈️ I love traveling and discovering new places to fuel my creativity and broaden my perspective.
 
-## 🛠️ Skills
+## Skills
 
 Languages: 
 
